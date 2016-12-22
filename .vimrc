@@ -4,7 +4,7 @@ set fenc=utf-8
 set termencoding=utf-8
 " disable vi compatibility
 set nocompatible
-colorscheme badwolf
+
 
 " Vundle
 filetype off
@@ -193,4 +193,5 @@ nnoremap <A-h> :tabp<CR>
 nnoremap <A-l> :tabn<CR>
 
 
+colorscheme badwolf
 
