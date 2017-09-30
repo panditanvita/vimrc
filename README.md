@@ -12,7 +12,7 @@
 # It's not bad at all
 
 # for colors:
-shell``` 
+``` 
 mkdir ~/.vim/colors/
 cd ~/.vim/colors
 wget https://raw.githubusercontent.com/sjl/badwolf/master/colors/badwolf.vim
