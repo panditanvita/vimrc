@@ -19,5 +19,4 @@ wget https://raw.githubusercontent.com/sjl/badwolf/master/colors/badwolf.vim
 
 cd ~
 cp vimrc/.vimrc .vimrc
-cp vimrc/.bashrc .bashrc
 ```
